@@ -1,4 +1,6 @@
 # Alfido.Task.1
+
+
 I did my first real recon and vulnerability scan using Nmap and Nikto on my own Kali Linux lab. Found some interesting stuff — SMB open, VMware ports exposed, and more. Part of my Alfido Tech cybersecurity internship.
 
 # Task 1 — Recon & Vulnerability Scanning
